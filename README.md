@@ -17,8 +17,8 @@ en 3D (rotable), las secciones transversales que lo forman y el contraste entre 
 
 ## 👥 Integrantes
 
-| Nombre | Programa académico | Método asignado |
-|---|---|---|
+| Nombre | Programa académico | 
+|---|---
 | Juan Jose Tarazona| Ingeniería de Sistemas |  
 | Jose Miguel Santamaria | Ingeniería de Sistemas | 
 |Juan Esteban Mantilla| Ingeniería de Sistemas | 
