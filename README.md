@@ -1,18 +1,18 @@
 # 🌀 Simulador de Sólidos de Revolución 3D
 
-Proyecto Integrador de **Cálculo Integral** — Ingeniería de Sistemas (UTS).
+Proyecto Integrador de Cálculo Integral — Ingeniería de Sistemas (UTS).
 
 Aplicación interactiva que modela y calcula el volumen de sólidos de revolución, mostrando el sólido
 en 3D (rotable), las secciones transversales que lo forman y el contraste entre el resultado
-**exacto** (SymPy) y las **aproximaciones numéricas** (cuadratura de SciPy y suma de Riemann).
+exacto (SymPy) y las aproximaciones numéricas (cuadratura de SciPy y suma de Riemann).
 
 ## 🔗 Enlaces del proyecto
 
 | Recurso | Enlace / Información |
 |---|---|
-| Aplicación web (simulador) | _PENDIENTE: pegar URL de Streamlit Community Cloud_ |
+| Aplicación web (simulador) |https://solidos-revolucion-3d-o6ncdy7aznnahanfaxa92c.streamlit.app |
 | Credenciales de prueba | No requiere inicio de sesión (acceso libre) |
-| Repositorio | _PENDIENTE: URL de este repositorio_ |
+| Repositorio |https://github.com/jjtarazona1124-prog/solidos-revolucion-3d.git|
 | Video de sustentación (8–10 min) | _PENDIENTE: enlace de YouTube / Drive_ |
 
 ## 👥 Integrantes
@@ -26,15 +26,15 @@ en 3D (rotable), las secciones transversales que lo forman y el contraste entre 
 
 ## ✨ Funcionalidades
 
-- Ejemplos contextualizados por método (el de arandelas con **eje desplazado** `y = −1`).
-- Pestaña **GeoGebra**: el mismo sólido construido en GeoGebra 3D (applet incrustado, con deslizadores
+- Ejemplos contextualizados por método (el de arandelas con eje desplazado `y = −1`).
+- Pestaña GeoGebra: el mismo sólido construido en GeoGebra 3D (applet incrustado, con deslizadores
   de giro y de sección) y los comandos para pegarlos en geogebra.org/3d.
-- Modo **personalizado**: ingresa `f(x)`, `g(x)`, límites `a`, `b` y el eje de giro.
-- Sólido 3D interactivo (rotar, acercar) con **ángulo de giro** ajustable para ver cómo se forma.
+- Modo personalizado: ingresa `f(x)`, `g(x)`, límites `a`, `b` y el eje de giro.
+- Sólido 3D interactivo (rotar, acercar) con ángulo de giro ajustable para ver cómo se forma.
 - Secciones transversales (disco / arandela) y una sección resaltada con deslizador.
-- Resultado **exacto** simbólico, **cuadratura** numérica y **suma de Riemann** con error.
-- Pestaña de **convergencia** (error vs. número de subdivisiones `n`).
-- Pestaña de **desarrollo analítico**: integrando, antiderivada y evaluación.
+- Resultado exacto simbólico, cuadratura numérica y **suma de Riemann** con error.
+- Pestaña de convergencia (error vs. número de subdivisiones `n`).
+- Pestaña de desarrollo analítico: integrando, antiderivada y evaluación.
 - Entrada de funciones validada (no ejecuta código arbitrario).
 
 ## 📐 Fórmulas
