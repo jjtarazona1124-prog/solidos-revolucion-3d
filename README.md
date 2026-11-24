@@ -13,7 +13,7 @@ exacto (SymPy) y las aproximaciones numéricas (cuadratura de SciPy y suma de Ri
 | Aplicación web (simulador) |https://solidos-revolucion-3d-o6ncdy7aznnahanfaxa92c.streamlit.app |
 | Credenciales de prueba | No requiere inicio de sesión (acceso libre) |
 | Repositorio |https://github.com/jjtarazona1124-prog/solidos-revolucion-3d.git|
-| Video de sustentación (8–10 min) | _PENDIENTE: enlace de YouTube / Drive_ |
+| Video de sustentación (8–10 min) |https://drive.google.com/file/d/1u2S4zMU5RRh-CVHMfev-lERp3HpY6qcz/view?usp=sharing  |
 
 ## 👥 Integrantes
 
