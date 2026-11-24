@@ -86,7 +86,6 @@ directamente con Streamlit.
 ├── tests/                  # Pruebas automáticas (pytest)
 ├── docs/
 │   ├── GUIA_INFORME.md     # Lista de verificación del informe PDF
-│   ├── EXPLICACION_CODIGO.md  # Guía del código para estudiar y explicar en el video
 │   └── capturas/           # Capturas de pantalla para el informe
 ├── .github/workflows/      # Integración continua (pytest)
 ├── .streamlit/config.toml  # Tema de la app
